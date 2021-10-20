@@ -1,0 +1,18 @@
+{
+  "files": {
+    "sc/sc/spiders/sc_spider.py": [
+      {
+        "id": "b2d77a5f-993c-4644-b8e8-62e6d97509e7",
+        "line": 1,
+        "version": 1406,
+        "index": 0
+      },
+      {
+        "id": "a9259440-bb09-4cb4-a1cc-f05c6db0e724",
+        "line": 20,
+        "version": 1406,
+        "index": 442
+      }
+    ]
+  }
+}
